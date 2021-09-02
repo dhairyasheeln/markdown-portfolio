@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- MongoDB
+- Express.js
+- React.js
+- Node JS
