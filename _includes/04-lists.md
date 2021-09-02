@@ -1,4 +1,0 @@
-- MongoDB
-- Express.js
-- React.js
-- Node JS
